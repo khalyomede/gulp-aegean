@@ -1,0 +1,30 @@
+{
+	"name": "gulp-aegean",
+	"version": "0.1.0",
+	"description": "Plugin for aegean (ES6 inline import).",
+	"main": "dist/main.js",
+	"repository": "https://github.com/khalyomede/gulp-aegean",
+	"author": "Khalyomede <khalyomede@gmail.com>",
+	"license": "MIT",
+	"keywords": [
+		"gulpplugin",
+		"aegean",
+		"es6",
+		"inline",
+		"import"
+	],
+	"devDependencies": {
+		"@types/node": "^10.12.11",
+		"gulp": "^3.9.1",
+		"gulp-typescript": "^5.0.0",
+		"plugin-error": "^1.0.1",
+		"through2": "^3.0.0",
+		"typescript": "^3.2.1"
+	},
+	"dependencies": {
+		"aegean": "^0.1.1"
+	},
+	"scripts": {
+		"dev": "gulp watch:js"
+	}
+}
