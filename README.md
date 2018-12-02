@@ -2,6 +2,10 @@
 
 Gulp plugin for aegean (ES6 inline import).
 
+
+![npm](https://img.shields.io/npm/v/gulp-aegean.svg)
+![NpmLicense](https://img.shields.io/npm/l/gulp-aegean.svg)
+
 ```javascript
 const gulp = require('gulp');
 const aegean = require('gulp-aegean');
