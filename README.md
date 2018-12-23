@@ -5,6 +5,7 @@ Gulp plugin for aegean (ES6 inline import).
 
 ![npm](https://img.shields.io/npm/v/gulp-aegean.svg)
 ![NpmLicense](https://img.shields.io/npm/l/gulp-aegean.svg)
+[![Known Vulnerabilities](https://snyk.io/test/github/khalyomede/gulp-aegean/badge.svg?targetFile=package.json)](https://snyk.io/test/github/khalyomede/gulp-aegean?targetFile=package.json)
 
 ```javascript
 const gulp = require('gulp');
