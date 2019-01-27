@@ -45,8 +45,8 @@ yarn add --dev gulp-aegean
 
 _src/main.js_
 ```javascript
-import "echo";
-import "is_string";
+import "./echo";
+import "./is_string";
 
 const input = "hello world";
 
